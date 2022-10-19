@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         button = findViewById(R.id.button);
+        //hello
         textview1=findViewById(R.id.textView);
         textview2=findViewById(R.id.textView2);
         editTextTextPersonName2 = findViewById(R.id.editTextTextPersonName2);
